@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(46, 27, 80);
+    color: azure;
+   
+}
+
+.btn{
+    background-color:rgb(134, 66, 255) ;
+    color: aliceblue;
+    font-size: x-small;
+}
+
+img{
+    max-height: 500px;
+    margin: auto;
+    display: flex;
+}
